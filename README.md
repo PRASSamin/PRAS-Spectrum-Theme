@@ -39,7 +39,7 @@ Contributions are welcome! If you encounter any issues, have suggestions for imp
 
 ## Changelog
 
-For a detailed list of changes, please see the [Changelog](CHANGELOG.md).
+For a detailed list of changes, please see the [Changelog](CHANGELOG).
 
 
 

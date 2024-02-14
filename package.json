@@ -6,7 +6,7 @@
 	"publisher": "pras",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/PRASSamin/PRAS-Spectrum-Theme.git"
 	},
 	"icon": "./img/ext-logo/pras-spectrum-theme-logo.png",
 	"engines": {
