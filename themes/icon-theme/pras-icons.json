@@ -1,0 +1,853 @@
+{
+  "iconDefinitions": {
+    "gitignore": {
+      "iconPath": "./icons/V0.0.2/gitignore.svg"
+    },
+    "vsixmanifest": {
+      "iconPath": "./icons/v0.0.2/vscode-lime.svg"
+    },
+   "s": {
+      "iconPath": "./icons/v0.0.2/asm s.svg"
+  },
+  "asm": {
+      "iconPath": "./icons/v0.0.2/asm s.svg"
+  },
+  "cmd": {
+      "iconPath": "./icons/v0.0.2/bash cmd.svg"
+  },
+  "bash": {
+      "iconPath": "./icons/v0.0.2/bash cmd.svg"
+  },
+  "bat": {
+      "iconPath": "./icons/v0.0.2/bat.svg"
+  },
+  "clj": {
+      "iconPath": "./icons/v0.0.2/clj.svg"
+  },
+  "coffee": {
+      "iconPath": "./icons/v0.0.2/coffee.svg"
+  },
+  "cr": {
+      "iconPath": "./icons/v0.0.2/cr.svg"
+  },
+  "CSS": {
+      "iconPath": "./icons/v0.0.2/CSS3.svg"
+  },
+  "dart": {
+      "iconPath": "./icons/v0.0.2/dart.svg"
+  },
+  "Elm": {
+      "iconPath": "./icons/v0.0.2/Elm.svg"
+  },
+  "erl": {
+      "iconPath": "./icons/v0.0.2/erl.svg"
+  },
+  "fs": {
+      "iconPath": "./icons/v0.0.2/fs, fsx, fsharp.svg"
+  },
+  "fsx": {
+      "iconPath": "./icons/v0.0.2/fs, fsx, fsharp.svg"
+  },
+  "fsharp": {
+      "iconPath": "./icons/v0.0.2/fs, fsx, fsharp.svg"
+  },
+  "hs": {
+      "iconPath": "./icons/v0.0.2/hs.svg"
+  },
+  "jl": {
+      "iconPath": "./icons/v0.0.2/jl.svg"
+  },
+  "js": {
+      "iconPath": "./icons/v0.0.2/js.svg"
+  },
+  "json": {
+      "iconPath": "./icons/v0.0.2/json.svg"
+  },
+  "kt": {
+      "iconPath": "./icons/v0.0.2/kt.svg"
+  },
+  "less": {
+      "iconPath": "./icons/v0.0.2/less.svg"
+  },
+  "lisp": {
+      "iconPath": "./icons/v0.0.2/lisp.svg"
+  },
+  "lua": {
+      "iconPath": "./icons/v0.0.2/lua.svg"
+  },
+  "nim": {
+      "iconPath": "./icons/v0.0.2/nim.svg"
+  },
+  "pro": {
+      "iconPath": "./icons/v0.0.2/pro P prolog.svg"
+  },
+  "P": {
+      "iconPath": "./icons/v0.0.2/pro P prolog.svg"
+  },
+  "prolog": {
+      "iconPath": "./icons/v0.0.2/pro P prolog.svg"
+  },
+  "pl": {
+      "iconPath": "./icons/v0.0.2/pl.svg"
+  },
+  "properties": {
+      "iconPath": "./icons/v0.0.2/properties.svg"
+  },
+  "ps1": {
+      "iconPath": "./icons/v0.0.2/ps1.svg"
+  },
+  "r": {
+      "iconPath": "./icons/v0.0.2/r.svg"
+  },
+  "jsx": {
+      "iconPath": "./icons/v0.0.2/react.svg"
+  },
+  "tsx": {
+      "iconPath": "./icons/v0.0.2/react.svg"
+  },
+  "rkt": {
+      "iconPath": "./icons/v0.0.2/rkt.svg"
+  },
+  "rs": {
+      "iconPath": "./icons/v0.0.2/rs.svg"
+  },
+  "scala": {
+      "iconPath": "./icons/v0.0.2/scala.svg"
+  },
+  "scm": {
+      "iconPath": "./icons/v0.0.2/scm.svg"
+  },
+  "scss": {
+      "iconPath": "./icons/v0.0.2/scss.svg"
+  },
+  "sh ": {
+      "iconPath": "./icons/v0.0.2/sh .svg"
+  },
+  "svg": {
+      "iconPath": "./icons/v0.0.2/svg.svg"
+  },
+  "swift": {
+      "iconPath": "./icons/v0.0.2/swift.svg"
+  },
+  "tcl": {
+      "iconPath": "./icons/v0.0.2/tcl.svg"
+  },
+  "toml": {
+      "iconPath": "./icons/v0.0.2/toml.svg"
+  },
+  "ts": {
+      "iconPath": "./icons/v0.0.2/ts.svg"
+  },
+  "v": {
+      "iconPath": "./icons/v0.0.2/v.svg"
+  },
+  "vala": {
+      "iconPath": "./icons/v0.0.2/vala.svg"
+  },
+  "vb": {
+      "iconPath": "./icons/v0.0.2/vb.svg"
+  },
+  "vue": {
+      "iconPath": "./icons/v0.0.2/vue.svg"
+  },
+  "wl": {
+      "iconPath": "./icons/v0.0.2/wl.svg"
+  },
+  "yaml": {
+      "iconPath": "./icons/v0.0.2/yml yaml.svg"
+  },
+  "yml": {
+      "iconPath": "./icons/v0.0.2/yml yaml.svg"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    "openfolder": {
+      "iconPath": "./icons/open.svg"
+    },
+    "closeFolder": {
+      "iconPath": "./icons/close.svg"
+    },
+    "!ut partial  part  crdownload  opdownload ": {
+      "iconPath": "./icons/!ut partial  part  crdownload  opdownload .svg"
+    },
+    "3MF ": {
+      "iconPath": "./icons/3MF .svg"
+    },
+    "7z": {
+      "iconPath": "./icons/7z.svg"
+    },
+    "aac": {
+      "iconPath": "./icons/aac.svg"
+    },
+    "ABF": {
+      "iconPath": "./icons/ABF.svg"
+    },
+    "ABW": {
+      "iconPath": "./icons/ABW.svg"
+    },
+    "accdb ": {
+      "iconPath": "./icons/accdb .svg"
+    },
+    "accde": {
+      "iconPath": "./icons/accde.svg"
+    },
+    "ace": {
+      "iconPath": "./icons/ace.svg"
+    },
+    "adoc": {
+      "iconPath": "./icons/adoc.svg"
+    },
+    "AFM": {
+      "iconPath": "./icons/AFM.svg"
+    },
+    "ai": {
+      "iconPath": "./icons/ai.svg"
+    },
+    "alz": {
+      "iconPath": "./icons/alz.svg"
+    },
+    "ANS": {
+      "iconPath": "./icons/ANS.svg"
+    },
+    "apk": {
+      "iconPath": "./icons/apk.svg"
+    },
+    "at3": {
+      "iconPath": "./icons/at3.svg"
+    },
+    "avro": {
+      "iconPath": "./icons/avro.svg"
+    },
+    "AZW4  TPZ  PRC  MOBI  AZW3  AZW ": {
+      "iconPath": "./icons/AZW4  TPZ  PRC  MOBI  AZW3  AZW .svg"
+    },
+    "BDF": {
+      "iconPath": "./icons/BDF.svg"
+    },
+    "bin": {
+      "iconPath": "./icons/bin.svg"
+    },
+    "BMF": {
+      "iconPath": "./icons/BMF.svg"
+    },
+    "c++": {
+      "iconPath": "./icons/c++.svg"
+    },
+    "c": {
+      "iconPath": "./icons/c.svg"
+    },
+    "cdr": {
+      "iconPath": "./icons/cdr.svg"
+    },
+    "cfg  conf cnf": {
+      "iconPath": "./icons/cfg  conf cnf.svg"
+    },
+    "cpt": {
+      "iconPath": "./icons/cpt.svg"
+    },
+    "cs": {
+      "iconPath": "./icons/cs.svg"
+    },
+    "csv": {
+      "iconPath": "./icons/csv.svg"
+    },
+    "daa": {
+      "iconPath": "./icons/daa.svg"
+    },
+    "dat": {
+      "iconPath": "./icons/dat.svg"
+    },
+    "db": {
+      "iconPath": "./icons/db.svg"
+    },
+    "dbf": {
+      "iconPath": "./icons/dbf.svg"
+    },
+    "deb": {
+      "iconPath": "./icons/deb.svg"
+    },
+    "dmg": {
+      "iconPath": "./icons/dmg.svg"
+    },
+    "dn": {
+      "iconPath": "./icons/dn.svg"
+    },
+    "dng": {
+      "iconPath": "./icons/dng.svg"
+    },
+    "doc": {
+      "iconPath": "./icons/doc.svg"
+    },
+    "docm": {
+      "iconPath": "./icons/docm.svg"
+    },
+    "docx": {
+      "iconPath": "./icons/docx.svg"
+    },
+    "dotm": {
+      "iconPath": "./icons/dotm.svg"
+    },
+    "dotx": {
+      "iconPath": "./icons/dotx.svg"
+    },
+    "epub": {
+      "iconPath": "./icons/epub.svg"
+    },
+    "FDX": {
+      "iconPath": "./icons/FDX.svg"
+    },
+    "flp": {
+      "iconPath": "./icons/flp.svg"
+    },
+    "fm": {
+      "iconPath": "./icons/fm.svg"
+    },
+    "FNT": {
+      "iconPath": "./icons/FNT.svg"
+    },
+    "FON": {
+      "iconPath": "./icons/FON.svg"
+    },
+    "FOND": {
+      "iconPath": "./icons/FOND.svg"
+    },
+    "gd": {
+      "iconPath": "./icons/gd.svg"
+    },
+    "gdoc": {
+      "iconPath": "./icons/gdoc.svg"
+    },
+    "gif": {
+      "iconPath": "./icons/gif.svg"
+    },
+    "gz": {
+      "iconPath": "./icons/gz.svg"
+    },
+    "h hpp": {
+      "iconPath": "./icons/h hpp.svg"
+    },
+    "html     htm": {
+      "iconPath": "./icons/html     htm.svg"
+    },
+    "hwp": {
+      "iconPath": "./icons/hwp.svg"
+    },
+    "img": {
+      "iconPath": "./icons/img.svg"
+    },
+    "indd": {
+      "iconPath": "./icons/indd.svg"
+    },
+    "info": {
+      "iconPath": "./icons/info.svg"
+    },
+    "iso": {
+      "iconPath": "./icons/iso.svg"
+    },
+    "Java": {
+      "iconPath": "./icons/Java.svg"
+    },
+    "jpeg": {
+      "iconPath": "./icons/jpeg.svg"
+    },
+    "jpg": {
+      "iconPath": "./icons/jpg.svg"
+    },
+    "log": {
+      "iconPath": "./icons/log.svg"
+    },
+    "lqr": {
+      "iconPath": "./icons/lqr.svg"
+    },
+    "lwp": {
+      "iconPath": "./icons/lwp.svg"
+    },
+    "lz": {
+      "iconPath": "./icons/lz.svg"
+    },
+    "lzh": {
+      "iconPath": "./icons/lzh.svg"
+    },
+    "lzma": {
+      "iconPath": "./icons/lzma.svg"
+    },
+    "md markdown": {
+      "iconPath": "./icons/md markdown.svg"
+    },
+    "MGF": {
+      "iconPath": "./icons/MGF.svg"
+    },
+    "mhtml": {
+      "iconPath": "./icons/mhtml.svg"
+    },
+    "MIDI": {
+      "iconPath": "./icons/MIDI.svg"
+    },
+    "msi": {
+      "iconPath": "./icons/msi.svg"
+    },
+    "myo myob": {
+      "iconPath": "./icons/myo myob.svg"
+    },
+    "nb": {
+      "iconPath": "./icons/nb.svg"
+    },
+    "ODOC     OSHEET": {
+      "iconPath": "./icons/ODOC     OSHEET.svg"
+    },
+    "ofx": {
+      "iconPath": "./icons/ofx.svg"
+    },
+    "omm": {
+      "iconPath": "./icons/omm.svg"
+    },
+    "Orc-": {
+      "iconPath": "./icons/Orc-.svg"
+    },
+    "OTF": {
+      "iconPath": "./icons/OTF.svg"
+    },
+    "PAGES": {
+      "iconPath": "./icons/PAGES.svg"
+    },
+    "PAP": {
+      "iconPath": "./icons/PAP.svg"
+    },
+    "Parquet ": {
+      "iconPath": "./icons/Parquet .svg"
+    },
+    "PCF": {
+      "iconPath": "./icons/PCF.svg"
+    },
+    "pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
+    "PFA": {
+      "iconPath": "./icons/PFA.svg"
+    },
+    "PFB": {
+      "iconPath": "./icons/PFB.svg"
+    },
+    "PFM": {
+      "iconPath": "./icons/PFM.svg"
+    },
+    "php": {
+      "iconPath": "./icons/php.svg"
+    },
+    "pm": {
+      "iconPath": "./icons/pm.svg"
+    },
+    "png": {
+      "iconPath": "./icons/png.svg"
+    },
+    "jar": {
+      "iconPath": "./icons/jar.svg"
+    },
+    "ppp": {
+      "iconPath": "./icons/ppp.svg"
+    },
+    "PSD": {
+      "iconPath": "./icons/PSD.svg"
+    },
+    "pub": {
+      "iconPath": "./icons/pub.svg"
+    },
+    "py": {
+      "iconPath": "./icons/py.svg"
+    },
+    "qfx": {
+      "iconPath": "./icons/qfx.svg"
+    },
+    "qif": {
+      "iconPath": "./icons/qif.svg"
+    },
+    "QXD ": {
+      "iconPath": "./icons/QXD .svg"
+    },
+    "rar": {
+      "iconPath": "./icons/rar.svg"
+    },
+    "raw": {
+      "iconPath": "./icons/raw.svg"
+    },
+    "rb": {
+      "iconPath": "./icons/rb.svg"
+    },
+    "Roblox (RBXLX) (RBXM) (RBXMX) (RBXL )": {
+      "iconPath": "./icons/Roblox (RBXLX) (RBXM) (RBXMX) (RBXL ).svg"
+    },
+    "rpm": {
+      "iconPath": "./icons/rpm.svg"
+    },
+    "RPT": {
+      "iconPath": "./icons/RPT.svg"
+    },
+    "rtf": {
+      "iconPath": "./icons/rtf.svg"
+    },
+    "sdw": {
+      "iconPath": "./icons/sdw.svg"
+    },
+    "sfd": {
+      "iconPath": "./icons/sfd.svg"
+    },
+    "sheet": {
+      "iconPath": "./icons/sheet.svg"
+    },
+    "skp-skb": {
+      "iconPath": "./icons/skp-skb.svg"
+    },
+    "SLA, SCD": {
+      "iconPath": "./icons/SLA, SCD.svg"
+    },
+    "snf": {
+      "iconPath": "./icons/snf.svg"
+    },
+    "sql": {
+      "iconPath": "./icons/sql.svg"
+    },
+    "srt": {
+      "iconPath": "./icons/srt.svg"
+    },
+    "tar": {
+      "iconPath": "./icons/tar.svg"
+    },
+    "Tar_gz": {
+      "iconPath": "./icons/Tar_gz.svg"
+    },
+    "TAX": {
+      "iconPath": "./icons/TAX.svg"
+    },
+    "tdf": {
+      "iconPath": "./icons/tdf.svg"
+    },
+    "temp tmp": {
+      "iconPath": "./icons/temp tmp.svg"
+    },
+    "tex": {
+      "iconPath": "./icons/tex.svg"
+    },
+    "tfm": {
+      "iconPath": "./icons/tfm.svg"
+    },
+    "ttc": {
+      "iconPath": "./icons/ttc.svg"
+    },
+    "ttf": {
+      "iconPath": "./icons/ttf.svg"
+    },
+    "txt": {
+      "iconPath": "./icons/txt.svg"
+    },
+    "ufo": {
+      "iconPath": "./icons/ufo.svg"
+    },
+    "verity ": {
+      "iconPath": "./icons/verity .svg"
+    },
+    "VHD_vhdx": {
+      "iconPath": "./icons/VHD_vhdx.svg"
+    },
+    "VSA": {
+      "iconPath": "./icons/VSA.svg"
+    },
+    "wav": {
+      "iconPath": "./icons/wav.svg"
+    },
+    "webm": {
+      "iconPath": "./icons/webm.svg"
+    },
+    "webp": {
+      "iconPath": "./icons/webp.svg"
+    },
+    "WFP": {
+      "iconPath": "./icons/WFP.svg"
+    },
+    "woff  woff2": {
+      "iconPath": "./icons/woff  woff2.svg"
+    },
+    "wpd": {
+      "iconPath": "./icons/wpd.svg"
+    },
+    "WPS WPT ": {
+      "iconPath": "./icons/WPS WPT .svg"
+    },
+    "WRI": {
+      "iconPath": "./icons/WRI.svg"
+    },
+    "xaml": {
+      "iconPath": "./icons/xaml.svg"
+    },
+    "xap appx appxbundle": {
+      "iconPath": "./icons/xap appx appxbundle.svg"
+    },
+    "XCF": {
+      "iconPath": "./icons/XCF.svg"
+    },
+    "xhtml": {
+      "iconPath": "./icons/xhtml.svg"
+    },
+    "xml": {
+      "iconPath": "./icons/xml.svg"
+    },
+    "XPS": {
+      "iconPath": "./icons/XPS.svg"
+    },
+    "zip": {
+      "iconPath": "./icons/zip.svg"
+    }
+  },
+  "fileExtensions": {
+    "gitignore": "gitignore",
+    "vsixmanifest": "vsixmanifest",
+    "jsx": "jsx",
+    "tsx": "tsx",
+    "s": "s",
+    "asm": "asm",
+    "cmd": "cmd",
+    "bash": "bash",
+    "bat": "bat",
+    "clj": "clj",
+    "coffee": "coffee",
+    "cr": "cr",
+    "css": "CSS",
+    "dart": "dart",
+    "Elm": "Elm",
+    "erl": "erl",
+    "fs": "fs",
+    "fsx": "fsx",
+    "fsharp": "fsharp",
+    "hs": "hs",
+    "jl": "jl",
+    "js": "js",
+    "json": "json",
+    "kt": "kt",
+    "less": "less",
+    "lisp": "lisp",
+    "lua": "lua",
+    "nim": "nim",
+    "pro": "pro",
+    "P": "P",
+    "prolog": "prolog",
+    "pl": "pl",
+    "properties": "properties",
+    "ps1": "ps1",
+    "r": "r",
+    "react": "react",
+    "rkt": "rkt",
+    "rs": "rs",
+    "scala": "scala",
+    "scm": "scm",
+    "scss": "scss",
+    "sh": "sh ",
+    "svg": "svg",
+    "swift": "swift",
+    "tcl": "tcl",
+    "toml": "toml",
+    "ts": "ts",
+    "v": "v",
+    "vala": "vala",
+    "vb": "vb",
+    "vue": "vue",
+    "wl": "wl",
+    "yaml": "yaml",
+    "yml": "yml",
+    
+    
+
+
+
+
+
+
+
+
+    
+    
+    "!ut": "!ut partial  part  crdownload  opdownload ",
+    "partial": "!ut partial  part  crdownload  opdownload ",
+    "part": "!ut partial  part  crdownload  opdownload ",
+    "crdownload": "!ut partial  part  crdownload  opdownload ",
+    "opdownload": "!ut partial  part  crdownload  opdownload ",
+    "3MF": "3MF ",
+    "7z": "7z",
+    "aac": "aac",
+    "ABF": "ABF",
+    "ABW": "ABW",
+    "accdb": "accdb ",
+    "accde": "accde",
+    "ace": "ace",
+    "adoc": "adoc",
+    "AFM": "AFM",
+    "ai": "ai",
+    "alz": "alz",
+    "ANS": "ANS",
+    "apk": "apk",
+    "at3": "at3",
+    "avro": "avro",
+    "AZW4": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "TPZ": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "PRC": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "MOBI": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "AZW3": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "AZW": "AZW4  TPZ  PRC  MOBI  AZW3  AZW ",
+    "BDF": "BDF",
+    "bin": "bin",
+    "BMF": "BMF",
+    "cpp": "c++",
+    "c++": "c++",
+    "c": "c",
+    "cdr": "cdr",
+    "cfg": "cfg  conf cnf",
+    "conf": "cfg  conf cnf",
+    "cnf": "cfg  conf cnf",
+    "cpt": "cpt",
+    "cs": "cs",
+    "csv": "csv",
+    "daa": "daa",
+    "dat": "dat",
+    "db": "db",
+    "dbf": "dbf",
+    "deb": "deb",
+    "dmg": "dmg",
+    "dn": "dn",
+    "dng": "dng",
+    "doc": "doc",
+    "docm": "docm",
+    "docx": "docx",
+    "dotm": "dotm",
+    "dotx": "dotx",
+    "epub": "epub",
+    "FDX": "FDX",
+    "flp": "flp",
+    "fm": "fm",
+    "FNT": "FNT",
+    "FON": "FON",
+    "FOND": "FOND",
+    "gd": "gd",
+    "gdoc": "gdoc",
+    "gif": "gif",
+    "gz": "gz",
+    "h": "h hpp",
+    "hpp": "h hpp",
+    "html": "html     htm",
+    "htm": "html     htm",
+    "hwp": "hwp",
+    "img": "img",
+    "indd": "indd",
+    "info": "info",
+    "iso": "iso",
+    "Java": "Java",
+    "jpeg": "jpeg",
+    "jpg": "jpg",
+    "log": "log",
+    "lqr": "lqr",
+    "lwp": "lwp",
+    "lz": "lz",
+    "lzh": "lzh",
+    "lzma": "lzma",
+    "md": "md markdown",
+    "markdown": "md markdown",
+    "MGF": "MGF",
+    "mhtml": "mhtml",
+    "MIDI": "MIDI",
+    "msi": "msi",
+    "myo": "myo myob",
+    "myob": "myo myob",
+    "nb": "nb",
+    "ODOC": "ODOC     OSHEET",
+    "OSHEET": "ODOC     OSHEET",
+    "ofx": "ofx",
+    "omm": "omm",
+    "Orc": "Orc-",
+    "OTF": "OTF",
+    "PAGES": "PAGES",
+    "PAP": "PAP",
+    "Parquet": "Parquet ",
+    "PCF": "PCF",
+    "pdf": "pdf",
+    "PFA": "PFA",
+    "PFB": "PFB",
+    "PFM": "PFM",
+    "php": "php",
+    "pm": "pm",
+    "png": "png",
+    "jar": "jar",
+    "ppp": "ppp",
+    "PSD": "PSD",
+    "pub": "pub",
+    "py": "py",
+    "qfx": "qfx",
+    "qif": "qif",
+    "QXD": "QXD ",
+    "rar": "rar",
+    "raw": "raw",
+    "rb": "rb",
+    "RBXLX": "Roblox (RBXLX) (RBXM) (RBXMX) (RBXL )",
+    "RBXM": "Roblox (RBXLX) (RBXM) (RBXMX) (RBXL )",
+    "RBXMX": "Roblox (RBXLX) (RBXM) (RBXMX) (RBXL )",
+    "RBXL": "Roblox (RBXLX) (RBXM) (RBXMX) (RBXL )",
+    "rpm": "rpm",
+    "RPT": "RPT",
+    "rtf": "rtf",
+    "sdw": "sdw",
+    "sfd": "sfd",
+    "sheet": "sheet",
+    "skp": "skp-skb",
+    "skb": "skp-skb",
+    "SLA": "SLA, SCD",
+    "SCD": "SLA, SCD",
+    "snf": "snf",
+    "sql": "sql",
+    "srt": "srt",
+    "tar": "tar",
+    "Tar.gz": "Tar_gz",
+    "TAX": "TAX",
+    "tdf": "tdf",
+    "temp": "temp tmp",
+    "tmp": "temp tmp",
+    "tex": "tex",
+    "tfm": "tfm",
+    "ttc": "ttc",
+    "ttf": "ttf",
+    "txt": "txt",
+    "ufo": "ufo",
+    "verity": "verity ",
+    "vhdx": "VHD_vhdx",
+    "VHD": "VHD_vhdx",
+    "VSA": "VSA",
+    "wav": "wav",
+    "webm": "webm",
+    "webp": "webp",
+    "WFP": "WFP",
+    "woff": "woff  woff2",
+    "woff2": "woff  woff2",
+    "wpd": "wpd",
+    "WPS": "WPS WPT ",
+    "WPT": "WPS WPT ",
+    "WRI": "WRI",
+    "xaml": "xaml",
+    "xap": "xap appx appxbundle",
+    "appx": "xap appx appxbundle",
+    "appxbundle": "xap appx appxbundle",
+    "XCF": "XCF",
+    "xhtml": "xhtml",
+    "xml": "xml",
+    "XPS": "XPS",
+    "zip": "zip"
+  },
+  "folder": "closeFolder",
+  "folderExpanded": "openfolder"
+}

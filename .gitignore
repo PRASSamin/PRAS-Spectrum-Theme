@@ -1,0 +1,6 @@
+/themes/icon-theme/make.py
+node_modules
+*.vsix
+.DS_Store
+.vscodeignore
+.vscode
