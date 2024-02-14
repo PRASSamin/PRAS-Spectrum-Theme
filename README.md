@@ -2,7 +2,7 @@
 
 PRAS Spectrum Theme is a vibrant and versatile theme extension for Visual Studio Code, designed to enhance your coding experience with its rich and colorful palette.
 
-![Theme Preview](./img/ext-preview.png)
+![Theme Preview](https://github.com/PRASSamin/PRAS-Spectrum-Theme/blob/main/img/ext-preview.png?raw=true)
 
 
 ## Features
