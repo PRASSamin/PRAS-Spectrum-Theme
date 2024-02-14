@@ -2,7 +2,7 @@
 
 All notable changes to the "PRAS Spectrum Theme" extension will be documented in this file.
 
-## [Unreleased]
+### [Version 0.0.1 & 0.0.2] - 2024-02-14
 
 ### Added
 - Initial release of the extension.

@@ -37,6 +37,12 @@ PRAS Spectrum Theme is a vibrant and versatile theme extension for Visual Studio
 Contributions are welcome! If you encounter any issues, have suggestions for improvements, or would like to request additional features for this extension, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/PRASSamin/PRAS-Spectrum-Theme.git).
 
 
+## Changelog
+
+For a detailed list of changes, please see the [Changelog](CHANGELOG.md).
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
