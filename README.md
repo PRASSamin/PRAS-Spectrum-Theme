@@ -43,13 +43,13 @@ Contributions are welcome! If you encounter any issues, have suggestions for imp
 
 ## Changelog
 
-For a detailed list of changes, please see the [Changelog](CHANGELOG).
+For a detailed list of changes, please see the [CHANGELOG](CHANGELOG.md).
 
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 
