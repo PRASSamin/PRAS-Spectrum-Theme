@@ -1,0 +1,28 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 230" width="100" height="100">
+	<title>Haxe_logo-svg</title>
+	<style>
+		.s0 { fill: #fbc707 } 
+		.s1 { fill: #f68712 } 
+		.s2 { fill: #f25c19 } 
+		.s3 { fill: #fff200 } 
+		.s4 { fill: #f1471d } 
+		.s5 { fill: #fab20b } 
+		.s6 { fill: #f47216 } 
+		.s7 { fill: #f89c0e } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m115 28.8l-65.5-7.3-49.5-21.5h57.5l57.5 28.8"/>
+		<path id="Layer" class="s0" d="m115 28.8l67-5.8 48-23h-57.5l-57.5 28.8"/>
+		<path id="Layer" class="s1" d="m115 201.2l62.5 2.3 52.5 26.5h-57.5l-57.5-28.8"/>
+		<path id="Layer" class="s2" d="m115 201.2h-63l-52 28.8h57.5l57.5-28.8"/>
+		<path id="Layer" class="s3" d="m28.7 115v60.5l-28.7 54.5v-57.5c0 0 28.7-57.5 28.7-57.5z"/>
+		<path id="Layer" class="s3" d="m28.7 115l-4.7-60-24-55v57.5c0 0 28.7 57.5 28.7 57.5z"/>
+		<path id="Layer" class="s4" d="m201.2 115l6.3-63 22.5-52v57.5c0 0-28.8 57.5-28.8 57.5z"/>
+		<path id="Layer" class="s4" d="m201.2 115l5.3 67.5 23.5 47.5v-57.5c0 0-28.8-57.5-28.8-57.5z"/>
+		<path id="Layer" class="s5" d="m0 0l115 28.8-18.5 73.2-67.8 13-28.7-115"/>
+		<path id="Layer" class="s6" d="m230 0l-28.8 115-77.2-14-9-72.3 115-28.7"/>
+		<path id="Layer" class="s2" d="m230 230l-115-28.8 13-76.2 73.2-10 28.8 115"/>
+		<path id="Layer" class="s7" d="m0 230l28.7-115 69.3 15.5 17 70.7-115 28.8"/>
+		<path id="Layer" class="s1" d="m115 28.8l-86.3 86.2 86.3 86.2 86.2-86.2-86.2-86.2"/>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="500" height="500">
+	<title>json</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAALFQTFRFAAAA25IA8psS85wS8poRAAAA7JcJ8psR85sR85wS85sQ85wS8pwS85gM8pwS85sR748Q8psR85oP8ZsR8ZwO8JoP85wR8JYP8poS8psR85sM85wS7pkR85wS85sRgIAA5pkA85sS85wR85sS7ZoS8pwS8psS75cQ8psR8JoS8ZsS8ZkR85sS85gQ85sQ8poR75QQ8JsP8poS8psS8pkR8pwR1YAA8poQ8ZsS6ZsL6pULsHsLIgAAADt0Uk5TAAdzuZgBG7OoVVL/1Sr0+xB6U5c2RM4iZaMpqg/l/QIKkf7kK/GcMXhWgkuPPn93HzM68zzvBmKAFxhgMPdBAAAAgklEQVR4nJ3P2RbBUAyF4TjU9JsppeaZmsfy/g/m9MQDWHKRvfIlNxGRlElnPJFsLl8QV0UoWShXqNYc1GnopknrP/D8Nh2FgG5PxIdQZ+kPGI5kPJnOvjBnESS5ZKWwZuNyS6SwY/8jHDiekjyHXBxEcLXP3eD+0NNnbGx/xeZt4wN43Qryb66FAwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="layer1">
+		<use id="path4513-0" href="#img1" x="4" y="4"/>
+	</g>
+</svg>

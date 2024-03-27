@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404 408" width="100" height="101">
+	<title>national-instruments-labview-svg</title>
+	<style>
+		.s0 { fill: #ffda1c } 
+		.s1 { fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m375.6 171.2l-328.2-167.6c0 0-21.4-2.7-30.3 3-9.7 6.3-13.1 27.3-13.1 27.3v335.3c0 0 3 24.9 13.1 31.3 11.4 7.1 38.4-3.1 38.4-3.1l323.1-165.6c0 0 21.2-13.1 21.2-31.3 0-18.1-24.2-29.3-24.2-29.3z"/>
+	<path id="Layer" class="s1" d="m129.2 185.4v-38.4h27.3v38.4h39.3v27.2h-39.3v37.4h-27.3v-37.4h-40.4v-27.2z"/>
+</svg>
