@@ -1,6 +1,6 @@
 # PRAS Spectrum Theme
 
-[![Version](https://img.shields.io/badge/VERSION-V2.0.3-green?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=PRASSamin.pras-spectrum-theme)
+[![Version](https://img.shields.io/badge/VERSION-v0.3.0-green?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=PRASSamin.pras-spectrum-theme)
 [![VS Code Engine](https://img.shields.io/badge/VS%20Code%20Engine-1.86.0%2B-red?style=for-the-badge)](https://code.visualstudio.com/)
 
 
