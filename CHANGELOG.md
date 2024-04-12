@@ -33,3 +33,9 @@ All notable changes to the "PRAS Spectrum Theme" extension will be documented in
 
 ### Enhancements:
 - Enhanced icons with background colors from the previous version for better visibility.
+
+
+### [Version 0.3.1] - 2024-04-12
+
+### Fixed
+- Fixed issue with icons not displaying properly.
