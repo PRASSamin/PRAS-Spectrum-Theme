@@ -1,7 +1,7 @@
 @echo off
 set "VSCodeExtensionsDir=%USERPROFILE%\.vscode\extensions"
 set "BatchDir=%~dp0"
-set "ThemeDirName=pras.pras-spectrum-theme-v0.3.0"
+set "ThemeDirName=pras.pras-spectrum-theme-v0.3.2"
 set "ThemeDir=%ThemeDirName%"
 
 rem Remove the existing theme directory if it exists

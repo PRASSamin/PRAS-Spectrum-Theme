@@ -842,8 +842,8 @@
     "close-node_modules": {
       "iconPath": "./icons/folder/close-node_modules.svg"
     },
-    "close-open": {
-      "iconPath": "./icons/folder/close-open.svg"
+    "close-css": {
+      "iconPath": "./icons/folder/close-css.svg"
     },
     "close-public": {
       "iconPath": "./icons/folder/close-public.svg"
