@@ -15,10 +15,6 @@
 				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="ui,workspace,web" />
 				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 				
-				
-				
-				
-				
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#000000" />
 				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
 				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />

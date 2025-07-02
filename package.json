@@ -2,7 +2,7 @@
 	"name": "pras-spectrum-theme",
 	"displayName": "PRAS Spectrum Theme",
 	"description": "PRAS Spectrum Theme is vibrant and focused theme for VS code. with bold colors and clear contrasts, it enhances readability and productivity, making coding a pleasure",
-	"version": "0.3.2",
+	"version": "0.3.3",
 	"publisher": "PRASSamin",
 	"repository": {
 		"type": "git",
@@ -16,8 +16,7 @@
 		"color-theme",
 		"dark-theme",
 		"pras",
-		"theme",
-		"icon-theme"
+		"theme"
 	],
 	"preview": true,
 	"galleryBanner": {
@@ -38,13 +37,6 @@
 				"uiTheme": "vs-dark",
 				"label": "PRAS Twilight Slate",
 				"path": "./themes/color-theme/pras-twilight-slate.json"
-			}
-		],
-		"iconThemes": [
-			{
-				"id": "pras-icon",
-				"label": "PRAS Icon",
-				"path": "./themes/icon-theme/pras-icons.json"
 			}
 		],
 		"productIconThemes": [
