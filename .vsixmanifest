@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="pras-spectrum-theme" Version="0.0.2" Publisher="PRAS" />
-			<DisplayName>PRAS Spectrum Theme</DisplayName>
-			<Description xml:space="preserve">PRAS Spectrum Theme is vibrant and focused theme for VS code. with bold colors and clear contrasts, it enhances readability and productivity, making coding a pleasure</Description>
-			<Tags>color-theme,dark-theme,theme,icon-theme,product-icon-theme,__web_extension</Tags>
+			<Identity Language="en-US" Id="nykro-theme" Version="0.4.0" Publisher="PRAS" />
+			<DisplayName>Nykro Theme</DisplayName>
+			<Description xml:space="preserve">Nykro Theme is vibrant and focused theme for VS code. with bold colors and clear contrasts, it enhances readability and productivity, making coding a pleasure</Description>
+			<Tags>color-theme,dark-theme,theme,product-icon-theme,__web_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public Preview</GalleryFlags>
 			

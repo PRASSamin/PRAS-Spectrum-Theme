@@ -1,6 +1,14 @@
 # Changelog
 
-All notable changes to the "PRAS Spectrum Theme" extension will be documented in this file.
+All notable changes to the "Nykro Theme" extension will be documented in this file.
+
+### [Version 0.4.0] - 2025-07-03
+
+### Changed
+
+- Final rebranding of the theme.
+- Changed the name of the theme from "PRAS Spectrum Theme" to "Nykro Theme".
+- Changed the logo of the theme.
 
 ### [Version 0.3.3] - 2025-07-02
 

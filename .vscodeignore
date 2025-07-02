@@ -1,0 +1,13 @@
+node_modules
+.vscode
+.vs
+*.code-workspace
+*.vsix
+img/
+themes/icon-theme
+bun.lockb
+.git
+.vscodeignore
+.gitignore
+
+nykro.svg

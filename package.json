@@ -1,57 +1,64 @@
 {
-	"name": "pras-spectrum-theme",
-	"displayName": "PRAS Spectrum Theme",
-	"description": "PRAS Spectrum Theme is vibrant and focused theme for VS code. with bold colors and clear contrasts, it enhances readability and productivity, making coding a pleasure",
-	"version": "0.3.3",
-	"publisher": "PRASSamin",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/PRASSamin/PRAS-Spectrum-Theme.git"
-	},
-	"icon": "img/logo.jpg",
-	"engines": {
-		"vscode": "^1.86.0"
-	},
-	"keywords": [
-		"color-theme",
-		"dark-theme",
-		"pras",
-		"theme"
-	],
-	"preview": true,
-	"galleryBanner": {
-		"color": "#000000",
-		"theme": "dark"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"uiTheme": "vs-dark",
-				"label": "PRAS Dark Abyss",
-				"path": "./themes/color-theme/pras-dark-theme.json"
-			},
-			{
-				"uiTheme": "vs-dark",
-				"label": "PRAS Twilight Slate",
-				"path": "./themes/color-theme/pras-twilight-slate.json"
-			}
-		],
-		"productIconThemes": [
-			{
-				"id": "pras-product-icons",
-				"label": "PRAS Product Icon",
-				"path": "./themes/product-icon-theme/pras-product-icon.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"open": "^7.0.3",
-		"webfont": "^11.2.4"
-	},
-	"dependencies": {
-		"vsce": "^2.15.0"
-	}
+  "name": "nykro-theme",
+  "displayName": "Nykro Theme",
+  "description": "Nykro Theme is vibrant and focused theme for VS code. with bold colors and clear contrasts, it enhances readability and productivity, making coding a pleasure",
+  "version": "0.4.0",
+  "publisher": "PRAS",
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PRASSamin/nykro-theme.git"
+  },
+  "icon": "nykro.png",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "keywords": [
+    "color-theme",
+    "dark-theme",
+    "nykro",
+    "pras",
+    "prassamin",
+    "nykro-theme",
+    "theme"
+  ],
+  "preview": true,
+  "galleryBanner": {
+    "color": "#0B0E14",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "uiTheme": "vs-dark",
+        "label": "Nykro Abyss",
+        "path": "./themes/color-theme/nykro-dark-abyss.json"
+      },
+      {
+        "uiTheme": "vs-dark",
+        "label": "Nykro Twilight Slate",
+        "path": "./themes/color-theme/nykro-twilight-slate.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "nykro-product-icons",
+        "label": "Nykro Product Icon",
+        "path": "./themes/product-icon-theme/nykro-product-icon.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "open": "^7.0.3",
+    "webfont": "^11.2.4"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
 }
